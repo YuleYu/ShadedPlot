@@ -1,6 +1,6 @@
 # Shaded Plot: a function for data shaded drawing
 
-![build-status](https://img.shields.io/badge/build-passing-green.svg) 
+![build-status](https://img.shields.io/badge/build-passing-brightgreen.svg) ![](https://img.shields.io/badge/language-MATLAB-orange.svg) ![](https://img.shields.io/github/license/YuleYu/ShadedPlot.svg)
 
 `shadedplot(x, y, attri)` 是一个专门用于绘制带范围曲线的函数，范围可用于表现与预估值的偏离。
 - `x` ：1×N 向量，作为x 轴坐标。
