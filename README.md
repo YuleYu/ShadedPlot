@@ -16,4 +16,5 @@ shadedplot(x,y,'r')
 ```
 
 得到图像类似如下，
+
 ![example](./pic/example.bmp)
